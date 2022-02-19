@@ -1,0 +1,15 @@
+GENERAL     ->  https://getbootstrap.com/
+                https://www.mrw.it/web-design/guida-bootstrap/
+POPOVERS    ->  https://getbootstrap.com/docs/4.0/components/popovers/
+                https://www.mrw.it/web-design/bootstrap-popover_11552.html
+GRID SYSTEM ->  https://getbootstrap.com/docs/4.0/layout/grid/
+IMAGES      ->  https://getbootstrap.com/docs/4.1/content/images/
+TABLES      ->  https://getbootstrap.com/docs/4.0/content/tables/
+MODALS      ->  https://getbootstrap.com/docs/4.0/components/modal/
+                http://jsfiddle.net/n__o/19rhfnqm/
+                https://stackoverflow.com/questions/14761942/bootstrap-tabs-inside-a-modal
+                https://bootsnipp.com/snippets/2eyKg
+COLLAPSE    ->  https://getbootstrap.com/docs/4.0/components/collapse/
+COMPONENTS  ->  https://getbootstrap.com/docs/3.3/components/ 
+FORMS       ->  https://getbootstrap.com/docs/4.0/components/forms/ 
+INPUT       ->  https://getbootstrap.com/docs/4.0/components/input-group/ 
