@@ -1,0 +1,9 @@
+COOKIEBOT       ->  https://www.cookiebot.com/it/
+                    https://www.cookiebot.com/it/help/
+IUBENDA         ->  https://www.iubenda.com/it/
+                    https://www.iubenda.com/en/help/1229-manual-tagging-blocking-cookies?fbclid=IwAR24yPo18eF2qhc07aGPUpuUTFAMjV5nByEKDFKQx8ye_OM9QWqKu-qiuBg
+GARENTE PRIVACY ->  https://www.garanteprivacy.it/regolamentoue/consenso 
+VARI            ->  https://www.tagmanageritalia.it/guida-gdpr-disabilitare-cookie-youtube-e-google-maps/#gref
+                    https://maxvalle.it/normativa-italiana-sugli-ecommerce/?fbclid=IwAR0mBoENkU6uTMcXgBxDaBKza596wkuY0u94lETVDv9N7MuC_6hOrrVv1I8
+                    https://www.webepc.it/siti-web-obblighi-legali-per-evitare-sanzioni/?fbclid=IwAR1OtxeieoNW4Ylf1o7LmKaln12YNRU4WN3q6UW0fGtt31DnBv1cktXcu78
+WIKIPEDIA       ->  https://it.wikipedia.org/wiki/Regolamento_generale_sulla_protezione_dei_dati
