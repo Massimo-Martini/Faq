@@ -1,0 +1,10 @@
+TEMPLATE  ->  
+PLUGIN    ->
+CODEX     ->  https://codex.wordpress.org/
+              https://codex.wordpress.org/Editing_wp-config.php
+              https://codex.wordpress.org/Database_Description
+              https://codex.wordpress.org/Gallery_Shortcode
+              https://codex.wordpress.org/it:Main_Page 
+              https://codex.wordpress.org/Template_Tags
+              https://codex.wordpress.org/Function_Reference/wp_tag_cloud
+              https://codex.wordpress.org/Post_Formats 
