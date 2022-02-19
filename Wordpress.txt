@@ -1,4 +1,12 @@
-TEMPLATE  ->  
+TEMPLATE  ->  https://themeforest.net/
+              https://www.templatemonster.com/it/
+              https://yootheme.com/
+              https://colorlib.com/wp/
+              https://oceanwp.org/
+              https://wpastra.com/
+              https://generatepress.com/
+              https://purothemes.com/themes/ultra/
+              https://themegrill.com/themes/flash/
 PLUGIN    ->
 CODEX     ->  https://codex.wordpress.org/
               https://codex.wordpress.org/Editing_wp-config.php
