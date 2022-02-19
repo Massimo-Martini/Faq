@@ -1,0 +1,5 @@
+BING    ->  https://www.bing.com/webmasters/about
+GOOGLE  ->  https://search.google.com/search-console/welcome
+            https://analytics.google.com/analytics/web
+            https://ads.google.com/intl/it_it/home/
+            https://tagmanager.google.com/#/home
