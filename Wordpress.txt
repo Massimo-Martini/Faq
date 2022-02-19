@@ -7,7 +7,20 @@ TEMPLATE  ->  https://themeforest.net/
               https://generatepress.com/
               https://purothemes.com/themes/ultra/
               https://themegrill.com/themes/flash/
-PLUGIN    ->
+
+PLUGIN
+    BOOKING E EVENTI  ->  
+    GALLERY           ->  
+    PAGE BUILDER      ->  
+    RECENSIONI        ->  
+    SICUREZZA         ->
+    SOCIAL E CHAT     ->  
+    SLIDER            ->  
+    SEO               ->  
+    TRASFERIRE SITO   ->  
+    UTILITà           ->  
+    COOKIE            ->  
+
 CODEX     ->  https://codex.wordpress.org/
               https://codex.wordpress.org/Editing_wp-config.php
               https://codex.wordpress.org/Database_Description
