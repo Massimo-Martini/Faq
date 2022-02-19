@@ -1,0 +1,6 @@
+GENERAL     ->  https://git-scm.com/
+GUIDA       ->  https://git-scm.com/book/it/v2
+                https://get-git.readthedocs.io/it/latest/introduzione.html
+                https://www.mrw.it/programmazione/guida-git/
+                https://rogerdudler.github.io/git-guide/index.it.html
+CONNESSIONE ->  https://stackoverflow.com/questions/20291731/how-to-connect-to-a-remote-git-repository
