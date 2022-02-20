@@ -1,0 +1,15 @@
+https://javascriptbook.com/extras/
+https://aarafacademy.com/multiple-dropdown-jquery-ajax-php/
+https://forum.html.it/forum/showthread/t-1473069.html
+https://www.mrw.it/javascript/espressioni-regolari_6838.html
+https://www.spadamar.com/archivio/2008/05/javascript-controllo-di-form-con-le-espressioni-regolari/
+http://appunti.scaracco.net/JavaScript/CheckFieldSpecialChars.html
+https://blog.chalda.it/guida-alla-sintassi-delle-espressioni-regolari-217.html
+https://www.mrw.it/javascript/array_9445.html
+https://www.html.it/faq/che-cosa-significa-la-sintassi/
+https://www.mrw.it/javascript/oggetti_12144.html
+https://www.html.it/articoli/gestire-dinamicamente-i-link-con-javascript/
+https://www.html.it/pag/47582/date-e-orari-con-javascript/
+https://www.michelepisani.it/articoli/calcolare-la-differenza-in-gironi-tra-due-date-in-javascript-puro/
+https://www.mrw.it/javascript/gestire-date_11826.html
+https://www.mrw.it/javascript/quanto-manca-certa-data-javascript_7345.html
