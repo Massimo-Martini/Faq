@@ -1,0 +1,6 @@
+GENERAL   ->  https://www.prestashop.com/it
+              https://www.prestashop.com/it/download
+GUIDA     ->  https://addons.prestashop.com/it/guida-dell-utente/28808-guida-per-lutente-prestashop-17-in-italiano.html
+PLUGIN    ->  https://addons.prestashop.com/it/
+INFO      ->  https://doc.prestashop.com/display/PS17/Documentazione+Italiana?_ga=2.125808200.352224464.1537180862-1927499994.1537180862
+PAGAMENTO ->  https://addons.prestashop.com/it/481-pagamento
