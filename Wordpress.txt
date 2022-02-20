@@ -9,17 +9,49 @@ TEMPLATE  ->  https://themeforest.net/
               https://themegrill.com/themes/flash/
 
 PLUGIN
-    BOOKING E EVENTI  ->  
-    GALLERY           ->  
-    PAGE BUILDER      ->  
-    RECENSIONI        ->  
-    SICUREZZA         ->
-    SOCIAL E CHAT     ->  
-    SLIDER            ->  
-    SEO               ->  
-    TRASFERIRE SITO   ->  
-    UTILITà           ->  
-    COOKIE            ->  
+    BOOKING E EVENTI  ->    https://wordpress.org/plugins/checkfront-wp-booking/#screenshots
+                            https://wordpress.org/plugins/events-planner/
+                            https://it.wordpress.org/plugins/easy-appointments/
+    GALLERY           ->    https://it.wordpress.org/plugins/instant-gallery/
+                            https://it.wordpress.org/plugins/envira-gallery-lite/
+                            https://www.wonderplugin.com/wordpress-gridgallery/
+                            https://it.wordpress.org/plugins/gallery-images-ape/
+    PAGE BUILDER      ->    https://www.wpbeaverbuilder.com/
+                            https://wordpress.org/plugins/siteorigin-panels/#screenshots
+                            https://www.advancedcustomfields.com/
+                            https://elementor.com/
+    RECENSIONI        ->    https://it.wordpress.org/plugins/wp-customer-reviews/
+                            https://wordpress.org/plugins/wp-review/
+    SICUREZZA         ->    https://it.wordpress.org/plugins/all-in-one-wp-security-and-firewall/
+                            https://flavioweb.net/wordpress-all-in-one-wp-security-e-firewall/
+                            https://de-ch.wordpress.org/plugins/wp-math-captcha/
+                            https://wordpress.org/plugins/gotmls/
+                            https://it.wordpress.org/plugins/really-simple-ssl/
+                            https://it.wordpress.org/plugins/custom-login/
+    SOCIAL E CHAT     ->    https://socialmediawidgets.wordpress.com/
+                            https://it.wordpress.org/plugins/facebook-pagelike-widget/
+                            https://www.alfonsostriano.it/aggiungere-la-chat-di-facebook-e-whatsapp-su-wordpress/
+                            https://www.alfonsostriano.it/installare-smartsupp-live-chat-su-wordpress/ 
+                            https://wordpress.org/plugins/creame-whatsapp-me/
+    SLIDER            ->    https://it.wordpress.org/plugins/smart-slider-3/#installation
+                            https://www.youtube.com/watch?v=qXtQ5iMOrvA  
+                            https://www.youtube.com/watch?v=tBRfxx7es7o
+    SEO               ->    https://it.wordpress.org/plugins/w3-total-cache/
+                            https://www.giuseppefava.com/come-aumentare-velocita-wordpress-w3-total-cache/ 
+                            https://wordpress.org/plugins/wordpress-seo/ 
+                            https://sos-wp.it/tutorial/seo/come-ottimizzare-sito-con-seo-by-yoast/
+                            https://wordpress.org/plugins/all-in-one-seo-pack/
+                            https://sos-wp.it/tutorial/seo/usare-all-in-one-seo/
+                            https://wordpress.org/plugins/google-sitemap-generator/
+    TRASFERIRE SITO   ->    https://it.wordpress.org/plugins/better-search-replace/
+                            https://it.wordpress.org/plugins/duplicator/  
+    UTILITà           ->    https://de.wordpress.org/plugins/popup-maker/
+                            https://it.wordpress.org/plugins/jetpack/
+                            https://www.mrw.it/wordpress/guida-jetpack-wordpress_12114.html  
+                            https://sos-wp.it/tutorial/plugin/guida-plugin-jetpack/
+                            https://it.wordpress.org/plugins/interactive-world-map/
+                            https://it.wordpress.org/support/topic/destinatari-multipli-cf7/
+    COOKIE            ->    https://it.wordpress.org/plugins/smart-cookie-kit/#utm_medium=referral&utm_source=facebook.com&utm_content=social  
 
 CODEX     ->  https://codex.wordpress.org/
               https://codex.wordpress.org/Editing_wp-config.php
