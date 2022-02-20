@@ -1,0 +1,10 @@
+GENERAL ->  https://business.adobe.com/products/magento/magento-commerce.html
+            https://magento.com/tech-resources/download
+            https://www.magentiamo.it/
+PLUGIN  ->  https://marketplace.magento.com/
+DEV     ->  https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/bk-frontend-dev-guide.html
+            https://experienceleague.adobe.com/docs/commerce.html
+GUIDA   ->  Stampa di fax a pagina intera - Guida-Italiana-Magento.pdf
+            https://www.html.it/guide/guida-magento/
+            https://www.magentiamo.it/catalogsearch/result/?q=installazione-di-magento
+            https://www.youtube.com/watch?v=HZ3G7n6jCmA
