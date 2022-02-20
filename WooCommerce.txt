@@ -1,0 +1,11 @@
+GENERAL   ->  https://woocommerce.com/
+              https://wordpress.org/plugins/woocommerce/ 
+INFO      ->  https://bonaventuradibello.com/e-commerce-con-wordpress-e-woocommerce
+              https://woocommerce.com/it-it/products/
+PAGAMENTI ->  https://www.paypal.com/it/business/accept-payments
+              https://stripe.com/it
+PLUGIN    ->  https://wordpress.org/plugins/yith-woocommerce-quick-view/
+              https://wordpress.org/plugins/yith-woocommerce-wishlist/
+              https://wordpress.org/plugins/woocommerce-accepted-payment-methods/
+SHORTCODE ->  https://woocommerce.com/document/woocommerce-shortcodes/
+              https://expoitalyonline.it/creare-pagine-woocommerce-shortcode/13131759
